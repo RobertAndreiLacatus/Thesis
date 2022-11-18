@@ -1,0 +1,49 @@
+
+.header{
+    padding:40px;
+    background: #db69a2;
+    margin:30px;
+    display:flex;
+    border-radius: 70px;
+    align-items: center;
+    
+}
+
+
+.sigla{
+    height:90px;
+    border-radius:505;
+    
+
+    
+}
+
+.title{
+    display:flex;
+    position: absolute;
+    justify-content: center;
+    font-size: 10px;
+    margin-left:40rem;
+
+}
+
+.header2{
+    position: relative;
+    margin-left:100rem ;
+    text-align: center;
+    font-size:45px;
+    color:rgb(3, 3, 3);
+    justify-self: center;
+    margin-top: 10px;
+    
+}
+
+.header2 > p{
+    margin-top:8px;
+    font-size: 45px;
+    color:black;
+    margin-left:15px;
+}
+
+
+
